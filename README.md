@@ -122,6 +122,4 @@ status: Open to opportunities ✅
 
 **💜 "Code is not just syntax — it's a way of thinking"**
 
-![Profile Views](https://komarev.com/ghpvc/?username=yaseenhassan04&color=blueviolet&style=flat-square&label=Profile+Views)
-
 </div>
